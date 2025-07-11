@@ -1,5 +1,5 @@
 # Laravel 12 Learning Guide
-![Laravel Logo](https://logo.wine/logo/Laravel/logo-512.png)
+![Laravel Logo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg)
 
 ## 🚀 Introduction
 Laravel 12 is the latest version of the popular PHP web framework that empowers developers to build elegant, efficient, and scalable web applications. This guide is a comprehensive roadmap for learning Laravel 12, including top resources (videos, courses, books), learning paths, tools, and libraries you'll need to become a Laravel pro.
